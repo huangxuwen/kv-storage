@@ -1,4 +1,4 @@
-module code.avlyun.org/grpc/kv-storage
+module github.com/huangxuwen/kv-storage
 
 go 1.14
 
